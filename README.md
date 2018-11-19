@@ -10,8 +10,9 @@ General plan is to create images for:
 1. InfluxDB
 
 These images can then be used as part of a tutorial looking
-at performance of the different databases (and, ideally,
-ease installation/use of these in AWS, Azure and/or GCP.)
+at performance of the different databases when analyizing
+AIS ship track data (and, ideally, ease installation/use of 
+these in AWS, Azure and/or GCP.)
 
 Practice makes perfect?
 
